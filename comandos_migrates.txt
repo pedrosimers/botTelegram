@@ -9,4 +9,14 @@ php artisan make:migration create_bot_settings_table;
 php artisan make:migration create_messages_table;
 
 
+php artisan make:model User;
+php artisan make:model Plan;
+php artisan make:model Subscription;
+php artisan make:model Payment;
+php artisan make:model Offer;
+php artisan make:model OfferSend;
+php artisan make:model TelegramGroup;
+php artisan make:model BotSetting;
+php artisan make:model Message;
+
 
