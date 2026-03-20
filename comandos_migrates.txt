@@ -1,0 +1,12 @@
+php artisan make:migration create_plans_table;
+php artisan make:migration create_subscriptions_table;
+php artisan make:migration create_payments_table;
+php artisan make:migration create_telegram_groups_table;
+php artisan make:migration create_offers_table;
+php artisan make:migration create_offer_plans_table;
+php artisan make:migration create_offer_sends_table;
+php artisan make:migration create_bot_settings_table;
+php artisan make:migration create_messages_table;
+
+
+
